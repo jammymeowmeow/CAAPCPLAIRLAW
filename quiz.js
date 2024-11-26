@@ -17,6 +17,86 @@ const questions = [
                 ]
             },
             {
+                question: " an emergency situation, which endangers the safety of the aircraft or persons, necessitates the taking of action, which involves a violation of regulations or procedures by any crewmember, the pilot - in - command shall submit a report on any such violation to the CAAP within:",
+                choices: [
+                    { text: "10 days", correct: true },
+                    { text: "7 days", correct: false },
+                    { text: "2 days", correct: false }
+                ]
+            },
+            {
+                question: "Which statement is true regarding right of way for taxiing aircraft in the manuevering area of an aerodrome for one aircraft overtaking the other?",
+                choices: [
+                    { text: "An aircraft which is being overtaken by another aircraft has the right of way", correct: true },
+                    { text: "The overtaking aircraft has the right of way.", correct: false },
+                    { text: "Aircraft with higher takeoff weight has the right of way.", correct: false }
+                ]
+            },
+            {
+                question: "The primary purpose of filing a plan is for:",
+                choices: [
+                    { text: "search and rescue.", correct: true },
+                    { text: "safety of flight.", correct: false },
+                    { text: "to secure clearance from ATS.", correct: false }
+                ]
+            },
+            {
+                question: "If not equipped with required position lights, an aircraft must terminate flight...",
+                choices: [
+                    { text: "at sunset", correct: true },
+                    { text: "1 hour after sunset.", correct: false },
+                    { text: "30 minutes after sunset.", correct: false }
+                ]
+            },
+            {
+                question: "______ of cross country flight time as pilot - in - command including one flight of not less than 300 nautical miles in the course of which not less than three full stop landings at different point shall have been made",
+                choices: [
+                    { text: "Thirty hours", correct: true },
+                    { text: "Fifteen hours", correct: false },
+                    { text: "Ten hours", correct: false }
+                ]
+            },
+            {
+                question: "Who among the following persons is required by CAAP to file a flight plan?",
+                choices: [
+                    { text: "Pilot in command", correct: true },
+                    { text: "Aircraft mechanic", correct: false },
+                    { text: "Aircraft owner.", correct: false }
+                ]
+            },
+            {
+                question: "fter an ATC clearance has been obtained, a pilot may not deviate from that clearance, unless the pilot...",
+                choices: [
+                    { text: "receives an amended clearance or less an emergency", correct: true },
+                    { text: "requests an amended clearance.", correct: false },
+                    { text: "is operating VFR on top", correct: false }
+                ]
+            },
+            {
+                question: "Aerial photography is prohibited in the Philippines without proper authorization from...",
+                choices: [
+                    { text: "CAAP", correct: true },
+                    { text: "NAMRIA", correct: false },
+                    { text: "Philippine Air Force", correct: false }
+                ]
+            },
+            {
+                question: "ll flights of civil aircraft over the Manila Flight Information Region and landing at Philippine aerodrome shall be carried out in accordance with.....",
+                choices: [
+                    { text: "the current regulations and policies.", correct: true },
+                    { text: "at the discretion of the civil aircraft operator.", correct: false },
+                    { text: "policy procedures of the civil aircraft operator", correct: false }
+                ]
+            },
+            {
+                question: "If weather conditions are such that it requires designating an alternate airport on your IFR flight plan, you should plan to carry enough fuel to arrive at the first airport of intended landing, fly from that airport to the alternate airport, fly thereafter.",
+                choices: [
+                    { text: "45 minutes at normal cruising speed.", correct: true },
+                    { text: "1 hour at normal cruising speed.", correct: false },
+                    { text: "30 minutes at slow cruising speed.", correct: false }
+                ]
+            },
+            {
                 question: "Regulations which refer to 'operate' relate to the person who:",
                 choices: [
                     { text: "Causes the aircraft to be used or authorizes its use.", correct: true },
